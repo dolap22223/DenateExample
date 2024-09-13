@@ -43,7 +43,7 @@ Technologies used in the project:
 
 <h2>Website</h2>
 
-<p>https://denateonlineservice.com/support</p>
+<p>https://denateonlineservice.com</p>
 
 <h2>Documentation</h2>
 
