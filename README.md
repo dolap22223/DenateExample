@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Denate Example</h1>
 
-<p align="center"><img src="https://drive.google.com/uc?export=view&amp;id=1CqYmc2MdIL36rJhO22IOsZtJSMRmwq5H" alt="project-image" width="32" height="32"></p>
+<p align="center"><img src="https://drive.google.com/uc?export=view&id=1CqYmc2MdIL36rJhO22IOsZtJSMRmwq5H" alt="project-image" width="32" height="32"></p>
 
 <p id="description">An example project to show how the denate online service is used</p>
 
