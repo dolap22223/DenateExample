@@ -62,4 +62,4 @@ If you have an issue question or suggestion kindly check out our support page an
 
 <h2>💖Like my work?</h2>
 
-If you like my work kindly leave a star.
+If you like my work kindly leave a star or you can <a href="https://www.paypal.com/ncp/payment/YTVWV86QUFZVN">donate</a> to the maintainance of the project.
