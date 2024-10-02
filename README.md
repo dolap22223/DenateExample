@@ -33,6 +33,14 @@ Here're some of the project's best features:
 
 <p>6. Navigate to your account page and copy the userID credentials and paste it in the userID field in your project settings</p>
 
+<p> Note: For testing purposes, if you dont want to sign up, you can use the following credentials as the appID and the userID
+appID: appID
+userID: userID
+and to access the dev portal you can use the following credentials
+email: example@email.com
+password: password
+  Please do not use the following credentials in production.
+</p>
   
   
 <h2>💻 Built with</h2>
