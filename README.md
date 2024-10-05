@@ -29,9 +29,9 @@ Here're some of the project's best features:
 
 <p>4. Enable the denate online service plugin and navigate to the unreal engine project settings and under the plugins cateory find the denate plugin settings category</p>
 
-<p>5. On the dev portal copy the generated appID credential and paste it in the appID field in your project settings</p>
+<p>5. On the dev portal copy the generated appID credential under the credentials page of your application and paste it in the appID field in your project settings</p>
 
-<p>6. Navigate to your account page and copy the userID credentials and paste it in the userID field in your project settings</p>
+<p>6. Navigate to your configuration page in your dev portal then copy the userID credentials and paste it in the userID field in your project settings</p>
 
 <p> Note: For testing purposes, if you dont want to sign up, you can use the following credentials as the appID and the userID </p>
 <p> appID: appID </p>
