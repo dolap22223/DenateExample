@@ -27,7 +27,7 @@ Here're some of the project's best features:
 
 <p>3. Create an application on the dev portal</p>
 
-<p>4. Enable the denate online service plugin and navigate to the unreal engine project settings and under the plugins cateory find the denate plugin settings category</p>
+<p>4. Enable the denate online service plugin in your project and navigate to the unreal engine project settings and under the plugins cateory find the denate plugin settings category</p>
 
 <p>5. On the dev portal copy the generated appID credential under the credentials page of your application and paste it in the appID field in your project settings</p>
 
