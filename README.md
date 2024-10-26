@@ -39,7 +39,7 @@ Here're some of the project's best features:
 <p> and to access the dev portal you can use the following credentials </p>
 <p> email: example@email.com </p>
 <p> password: password </p>
-<p> Please do not use the following credentials in production. </p>
+<p> Note: To test the voice chat you will require two different computers. </p>
   
   
 <h2>💻 Built with</h2>
