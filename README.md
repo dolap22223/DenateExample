@@ -34,9 +34,9 @@ Here're some of the project's best features:
 <p>6. Navigate to your configuration page in your dev portal then copy the userID credentials and paste it in the userID field in your project settings</p>
 
 <p> Note: </p>
-<p> This plugin requires an internet connection during use and provided you are making a multiplayer game, this plugin is only intended for multiplayer game that utilize LAN and dedicated servers. </p>
+<p> This plugin requires an internet connection during use and provided you are making a multiplayer game, this plugin is only intended for multiplayer game that utilize LAN or dedicated servers. </p>
 <p> To use the features provided by the denate online service, a user must be logged in, and if an account does not exist you can always sign up and login using your new credentials  </p>
-<p> Certain features are only available when a denate online service connection is established such as matche, lobbies e.t.c. So its recommeded you always establish a denate connection regardless of the features being used </p>
+<p> Certain features are only available when a denate online service connection is established such as match, lobbies e.t.c. So its recommeded you always establish a denate connection regardless of the features being used </p>
 <p> Voice chat can only be well tested using multiple computers </p>
   
 <h2>💻 Built with</h2>
