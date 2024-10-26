@@ -13,8 +13,7 @@
 		},
 		{
 			"Name": "DenatePlugin",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/852560b087c9457c96cb870619321eb6"
+			"Enabled": true
 		}
 	]
 }
