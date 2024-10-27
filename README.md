@@ -37,7 +37,7 @@ Note:
 
 * This plugin requires an internet connection during use and provided you are making a multiplayer game, this plugin is only intended for multiplayer game that utilize LAN or dedicated servers.
 
-* To use the features provided by the denate online service, a user must be logged in, and if an account does not exist you can always sign up and login using your new credentials with the exceptions of dedicated servers. Dedicated servers instances do not need to be logged in to use the denate online service but keep in mind the features provided will be limited to mostly match based features such as team management e.t.c.
+* To use most features provided by the denate online service, a user must be logged in, and if an account does not exist you can always sign up and login using your new credentials with the exceptions of dedicated servers. Dedicated servers instances do not need to be logged in to use the denate online service but keep in mind the features provided will be limited to mostly match based features such as team management, voice chat e.t.c.
 
 * Certain features are only available when a denate online service connection is established such as match, lobbies e.t.c. So its recommeded you always establish a denate connection regardless of the features being used.
 
