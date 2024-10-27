@@ -39,7 +39,7 @@ Note:
 
 * To use the features provided by the denate online service, a user must be logged in, and if an account does not exist you can always sign up and login using your new credentials
 
-* Certain features are only available when a denate online service connection is established such as match, lobbies e.t.c. So its recommeded you always establish a denate connection regardless of the features being used, unless you would like to use a particular feature that doesnt require a connection.
+* Certain features are only available when a denate online service connection is established such as match, lobbies e.t.c. So its recommeded you always establish a denate connection regardless of the features being used.
 
 * Voice chat can only be well tested using multiple computers
   
