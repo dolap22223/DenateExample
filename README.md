@@ -25,13 +25,13 @@ Here are some of the project's best features:
 
 <p>2. Sign up for an account or if you already have login to you dev portal</p>
 
-<p>3. Create an application on the dev portal</p>
+<p>3. Create an application on the dev portal.</p>
 
-<p>4. Enable the denate online service plugin in your project and navigate to the unreal engine project settings and under the plugins cateory find the denate plugin settings category</p>
+<p>4. Enable the denate online service plugin in your project and navigate to the unreal engine project settings and under the plugins cateory find the denate plugin settings category.</p>
 
-<p>5. On the dev portal copy the generated appID credential under the credentials page of your application and paste it in the appID field in your project settings</p>
+<p>5. On the dev portal copy the generated appID credential under the credentials page of your application and paste it in the appID field in your project settings. For testing purposes only, feel free to use "appID" as your appID credentials. </p>
 
-<p>6. Navigate to your configuration page in your dev portal then copy the userID credentials and paste it in the userID field in your project settings</p>
+<p>6. Navigate to your configuration page in your dev portal then copy the userID credentials and paste it in the userID field in your project settings. For testing purposes only, feel free to use "userID" as your userID credentials. </p>
 
 Note:
 
@@ -42,6 +42,8 @@ Note:
 * Certain features are only available when a denate online service connection is established such as match, lobbies e.t.c. So its recommeded you always establish a denate connection regardless of the features being used.
 
 * Voice chat can only be well tested using multiple computers
+
+* After joining a voice channel, its normal to notice a 3 to 5 second delay before hearing the audio of other players.
   
   
 <h2>💻 Built with</h2>
