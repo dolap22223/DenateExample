@@ -51,6 +51,12 @@ Note:
 Technologies used in the project:
 
 *   Unreal Engine
+  
+Technologies used in the Denate Plugin:
+
+*   Unreal Engine <img src="[https://drive.usercontent.google.com/download?id=1uhEIrrKumxd5n0on56joQikLseCpc-Yr&export=view&authuser=0](https://media.licdn.com/dms/image/D4E12AQGzlo5eBPBNmg/article-cover_image-shrink_720_1280/0/1719984802464?e=2147483647&v=beta&t=qeeGUT1ObgGmS18sSL8fSKl6BIrXNITEoGoHH60yVIk)" alt="project-image" width="32" height="32">
+*   Nestjs <img src="[https://drive.usercontent.google.com/download?id=1uhEIrrKumxd5n0on56joQikLseCpc-Yr&export=view&authuser=0" alt="project-image](https://nestjs.com/logo-small-gradient.76616405.svg)" width="32" height="32">
+*   React  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K" width="32" height="32">
 
 <h2>Website</h2>
 
