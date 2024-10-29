@@ -51,6 +51,12 @@ Note:
 Technologies used in the project:
 
 *   Unreal Engine
+  
+Technologies used in the Denate Online Service:
+
+*   Unreal Engine 
+*   Nestjs 
+*   React  
 
 <h2>Website</h2>
 
