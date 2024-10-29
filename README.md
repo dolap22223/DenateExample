@@ -52,7 +52,7 @@ Technologies used in the project:
 
 *   Unreal Engine
   
-Technologies used in the Denate Plugin:
+Technologies used in the Denate Online Service:
 
 *   Unreal Engine 
 *   Nestjs 
