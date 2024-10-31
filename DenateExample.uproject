@@ -2,5 +2,14 @@
 	"FileVersion": 3,
 	"EngineAssociation": "5.3",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "DenatePlugin",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
+		},
+	]
 }
