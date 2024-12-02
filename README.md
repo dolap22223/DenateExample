@@ -66,6 +66,9 @@ Technologies used in the Denate Online Service:
 
 The documentation can be found at .<p>https://denateonlineservice.com/docs</p>
 
+<h2>SDK</h2>
+The SDK can be found at <a href="https://github.com/dolap22223/DOS-SDK">Denate online service SDK</a>
+
 <h2>Support or Suggestions?</h2>
 
 If you have an issue question or suggestion kindly check out our support page and leave a message.<p>https://denateonlineservice.com/support</p>
